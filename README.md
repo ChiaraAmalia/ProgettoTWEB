@@ -83,5 +83,5 @@ Abbiamo inoltre deciso di aggiungere alcuni pacchetti opzionali:
 ## Autori
  - Chiara Amalia Caporusso -> https://github.com/ChiaraAmalia
  - Margherita Galeazzi -> https://github.com/MargheritaGaleazzi
- - Antonio Baio -> https://github.com/Asso-Di-Picche
- - Kevin Gianattasio
+ - Antonio Baio 
+ - Kevin Gianattasio -> https://github.com/Asso-Di-Picche
